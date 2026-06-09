@@ -1,92 +1,80 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "title": "Ryan Almeida | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Ryan Almeida, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Ryan Almeida",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
-    "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
-    "cvUrl": "#"
+    "name": "Ryan Almeida",
+    "headline": "Estudante de Desenvolvimento Web Full-stack",
+    "photo": "assets/images/profile.jpeg",
+    "photoAlt": "Foto profissional de Ryan Almeida",
+    "summary": "Sou estudante de Desenvolvimento Web com conhecimento em HTML, CSS, JavaScript, React, Java e MySQL. Ja desenvolvi projetos praticos que me ajudaram a consolidar minha base tecnica e busco minha primeira oportunidade profissional na area para crescer e evoluir como desenvolvedor Full-stack",
+    "cvUrl": "assets/curriculo.pdf"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "ryanjonas2019@gmail.com",
+      "url": "mailto:ryanjonas2019@gmail.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/ryan-almeida-dev",
+      "url": "https://www.linkedin.com/in/ryan-almeida-dev"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/ryann-08",
+      "url": "https://github.com/ryann-08"
     }
   ],
   "careerSteps": [
-    {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
-      "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
-      ],
-      "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
-        "Git e GitHub",
-        "Acessibilidade"
-      ]
-    },
-    {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
-      "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
-      ],
-      "roadmap": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
-      ]
-    },
-    {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
-      "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
-      ],
-      "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
-      ]
-    }
-  ],
+    
+  {
+    "title": "Desenvolvedor Junior Full-stack",
+    "description": "Minha primeira meta e conquistar meu primeiro emprego como desenvolvedor junior. Estou praticando HTML, CSS, JavaScript, React, Java e MySQL atraves de projetos praticos para fortalecer meu portfolio e mostrar meu potencial.",
+    "softSkills": [
+      "Comunicacao clara para trabalhar em equipe e pedir ajuda quando necessario.",
+      "Organizacao para gerenciar tarefas e prazos de entrega.",
+      "Curiosidade constante para investigar problemas e buscar solucoes."
+    ],
+    "roadmap": ["HTML semantico", "CSS responsivo", "JavaScript", "React", "Java", "MySQL", "Git e GitHub"]
+  },
+  {
+    "title": "Desenvolvedor Pleno Full-stack",
+    "description": "Quando estiver como junior, quero evoluir consumindo e criando APIs REST, aprofundando meu conhecimento em Java e banco de dados, e entregando funcionalidades completas do front-end ao back-end com qualidade.",
+    "softSkills": [
+      "Responsabilidade sobre entregas e prazos combinados.",
+      "Colaboracao em revisoes de codigo e decisoes tecnicas.",
+      "Capacidade de explicar solucoes tecnicas para o time."
+    ],
+    "roadmap": ["APIs REST", "Node.js", "TypeScript", "Testes automatizados", "Banco de dados avancado"]
+  },
+  {
+    "title": "Desenvolvedor Senior em grande empresa",
+    "description": "Meu objetivo de longo prazo e crescer dentro de uma grande empresa, liderar projetos tecnicamente, contribuir para arquitetura de sistemas e ajudar outros desenvolvedores a crescerem tambem.",
+    "softSkills": [
+      "Mentoria e apoio ao crescimento de outros desenvolvedores.",
+      "Visao sistemica sobre produto, pessoas e tecnologia.",
+      "Priorizacao estrategica entre impacto, custo e qualidade."
+    ],
+    "roadmap": ["Arquitetura de software", "Cloud", "Docker", "Seguranca", "Lideranca tecnica"]
+  }
+],
   "skillGroups": [
     {
       "title": "Frontend",
       "skills": [
         {
-          "name": "HTML, CSS e JavaScript",
+          "name": "HTML, CSS",
           "level": 85
         },
         {
           "name": "React",
           "level": 70
+        },
+         {
+          "name": "JavaScript",
+          "level": 50
         }
       ]
     },
@@ -94,34 +82,27 @@
       "title": "Backend e dados",
       "skills": [
         {
-          "name": "Node.js e APIs",
-          "level": 65
+          "name": "JAVA",
+          "level": 60
         },
         {
           "name": "SQL",
-          "level": 60
+          "level": 85
         }
       ]
     }
   ],
   "otherSkills": [
     "Git",
+    "GitHub",
     "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "Trabalho em equie",
+    "Resolucao de problemas"
   ],
   "languages": [
     {
       "name": "Portugues",
       "level": "Nativo"
-    },
-    {
-      "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
     }
   ]
 }
